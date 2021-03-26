@@ -1,5 +1,5 @@
 Hi there 👋
-I'm currently still in School 😄
+I'm currently still in school 😄
 My goal is to study COMPUTER SCIENCE soon!
 
 <!--
