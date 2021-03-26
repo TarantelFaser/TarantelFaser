@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋
+I'm currently still in School 😄
+My goal is to study COMPUTER SCIENCE soon!
 
 <!--
 **TarantelFaser/TarantelFaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
