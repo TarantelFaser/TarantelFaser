@@ -1,6 +1,5 @@
 Hi there 👋
-I'm currently still in school 😄
-My goal is to study COMPUTER SCIENCE soon!
+I'm currently studying computer science
 
 <!--
 **TarantelFaser/TarantelFaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
