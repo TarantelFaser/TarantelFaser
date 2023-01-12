@@ -1,8 +1,6 @@
 Hi there 👋
 I'm currently studying computer science at TU Chemnitz
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarantelFaser&layout=compact&theme=dark&count_private=true)](https://github.com/TarantelFaser?tab=repositories)
-
 <!--
 **TarantelFaser/TarantelFaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
